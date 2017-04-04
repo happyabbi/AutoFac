@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutofacLab", "AutofacLab\AutofacLab.csproj", "{A4E6E619-D668-43D7-9AA0-133EE5B6D3A9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoFacApp", "AutoFacApp\AutoFacApp.csproj", "{4199EE44-5BE5-4879-8BE8-F185D05B4BA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4E6E619-D668-43D7-9AA0-133EE5B6D3A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4E6E619-D668-43D7-9AA0-133EE5B6D3A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4E6E619-D668-43D7-9AA0-133EE5B6D3A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4E6E619-D668-43D7-9AA0-133EE5B6D3A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4199EE44-5BE5-4879-8BE8-F185D05B4BA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4199EE44-5BE5-4879-8BE8-F185D05B4BA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4199EE44-5BE5-4879-8BE8-F185D05B4BA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4199EE44-5BE5-4879-8BE8-F185D05B4BA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
